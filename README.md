@@ -1,5 +1,5 @@
 # Octocat
-~~All hail the Ω ω Ohm channel
+~~All hail the Ω ω Ohm channel~~
 
 ## Example:
   - ping     
